@@ -1,9 +1,5 @@
-<div align="center">
-    <img src="ai-picture.jpg" alt="AI robotics image" width="1000">
-</div>
-
 <h1 align="center">👋 Hi, I’m Joseph Emmanuel @jooosephoe</h1>
-<h2 align="center">I am a software developer based in Edmonton, Canada</h2>
+<h2 align="center">Software Developer based in Edmonton, Canada</h2>
 
 - 👀 I’m interested in backend, AI, machine learning and robotics
 - 🌱 I’m currently learning front-end engineering
